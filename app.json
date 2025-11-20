@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "CookBook",
+    "slug": "CookBook",
+    "scheme": "cookbook",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.yourcompany.cookbook"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.cookbook"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ]
+  }
+}
